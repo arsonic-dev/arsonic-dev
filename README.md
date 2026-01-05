@@ -1,5 +1,13 @@
 # 💫 About Me:
-Trying to make a blend of technology and creativity.<br><br>I am a Computer Science Engineering Undergraduate in NIST University, Berhampur.<br> I'm a tech enthusiast with a unique perspective on innovation. Rather than starting from scratch, I thrive on repurposing existing technologies to create something meaningful and useful. I believe that the tools we already have can be transformed in exciting ways, and I love exploring how to make the most of them.<br><br>When I'm not tinkering with tech, you can find me immersed in the vibrant worlds of anime. The stories and characters inspire me to push beyond my limits and embrace creativity in all its forms. I also have a passion for sci-fi movies; they ignite my imagination and make me ponder the possibilities of what could be achieved in real life.
+I am a Computer Science Engineering undergraduate at NIST University. I have a strong interest in software development and machine learning.
+I have practical working knowledge in data analysis and machine learning using Python along with Full Stack web development using the MERN Stack. I’ve gained experience in projects and internship programs relating to AI-integrated web applications, computer vision, and model development, where I worked on the data preparation, training, and evaluation process.
+
+I have completed internships and academic projects involving:
+• Machine Learning & Computer Vision
+• AI-integrated web development
+• Data handling, model training, and evaluation
+
+I am actively looking for opportunities to apply my skills, learn from industry professionals, and contribute to meaningful tech products.
 
 
 ## 🌐 Socials:
