@@ -1,66 +1,45 @@
-# Ankit Kumar  
-### AI / ML Engineer | NLP & Production ML Systems
+## Ankit Kumar
+**AI/ML Engineer** · NLP · Computer Vision · Production ML Systems
 
-I build explainable AI systems focused on semantic understanding, hybrid scoring architectures, and production-oriented machine learning pipelines.
-
-My work centers around:
-- Transformer-based NLP systems
-- Embedding similarity & ranking engines
-- Structured feature + deep learning hybrid models
-- FastAPI backend architectures
-- Interactive ML dashboards
-
-Currently focused on designing modular AI systems that bridge research concepts with deployable applications.
+Building production-grade AI systems that bridge research and deployment. Specialized in transformer-based NLP, multimodal embeddings, and scalable ML infrastructure. Focused on low-latency inference, hybrid scoring architectures, and MLOps pipelines.
 
 ---
 
-## 🚀 Featured Work
+### Tech Stack
 
-### 🔹 AI Resume Intelligence Platform
-Explainable NLP-based resume–job matching system using SentenceTransformers and hybrid similarity scoring.
+**ML & AI**
+`PyTorch` · `Transformers` · `SentenceTransformers` · `scikit-learn` · `ONNX Runtime` · `Weights & Biases`
 
-- Semantic embedding similarity (MiniLM)
-- Skill extraction & gap analysis
-- Batch candidate ranking
-- Modular backend architecture (FastAPI)
-- Interactive dashboard (Streamlit)
+**NLP & CV**
+`spaCy` · `Hugging Face` · `OpenCV` · `Pillow` · `Tesseract`
 
----
+**Backend & Infrastructure**
+`FastAPI` · `PostgreSQL` · `Redis` · `Celery` · `Docker` · `AWS/GCP` · `GitHub Actions`
 
-## 🧠 Core Technical Focus
-
-**Languages**
-- Python
-
-**Machine Learning & NLP**
-- Transformers (SentenceTransformers)
-- PyTorch / scikit-learn
-- Embedding similarity systems
-- Model evaluation & scoring logic
-
-**Backend & Deployment**
-- FastAPI
-- REST API design
-- Streamlit dashboards
-- Git & GitHub workflows
+**Data & Evaluation**
+`Pandas` · `NumPy` · `MLflow` · `Evidently` · `Great Expectations`
 
 ---
 
-## 📈 What I Care About
+### Featured Projects
 
-- Explainable AI
-- Clean system architecture
-- Production-ready ML pipelines
-- Evaluation & performance trade-offs
-- Scalable backend integration
+**Resume Intelligence Platform** [→ Repo](link) | [→ Live Demo](link)
+&gt; Semantic resume–job matching with explainable scoring
 
----
+- **Architecture**: Hybrid embedding similarity (MiniLM-L6) + structured feature scoring
+- **Performance**: &lt;150ms inference latency, 94% top-5 ranking accuracy
+- **Scale**: Batch processing 10K+ resumes with Celery workers
+- **Stack**: FastAPI, PostgreSQL, Redis, Streamlit, Docker
 
-## 📫 Connect
-
-LinkedIn: https://linkedin.com/in/ankit-kumar-btech-cse  
-Email: arsonnick349@email.com  
+**[Add Second Project Here]** — *Critical gap. Suggest: CV-based document analysis or real-time inference system*
 
 ---
 
-> Focused on building real AI systems — not just training models.
+### Currently Building
+- Multimodal search systems (text + image embeddings)
+- Model distillation for edge deployment
+- Automated ML evaluation pipelines
+
+---
+
+[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:your@email.com) · [Portfolio/Blog](optional)
