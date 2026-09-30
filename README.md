@@ -52,12 +52,12 @@
 ```yaml
 name: Ankit Kumar
 role: AI Engineer & Full-Stack Developer
-location: Jamshedpur, India 🇮🇳
+location: Bangalore, India 🇮🇳
 education:
   degree: B.Tech in Computer Science & Engineering
   university: NIST University, Berhampur
   cgpa: 7.8 / 10
-  graduation: April 2026
+  graduation: June 2026
 
 currently_building:
   - 🔮 RAG pipelines with LangChain & Vector DBs
