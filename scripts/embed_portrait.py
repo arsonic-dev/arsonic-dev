@@ -10,7 +10,7 @@ def main():
     im = Image.open(src).convert('RGBA')
 
     # Bounding box of headshot circle in Confident Creative Director Portrait.png: center=(590, 425), radius=420
-    cx, cy, r = 590, 425, 420
+    cx, cy, r = 650, 425, 420
     crop_box = (cx - r, cy - r, cx + r, cy + r)
     cropped = im.crop(crop_box)
 
