@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-labelledby="tc-title tc-desc">
+  <title id="tc-title">Tech constellation — Ankit Kumar</title>
+  <desc id="tc-desc">Languages: Python, TypeScript, JavaScript, SQL. AI and LLM: RAG, Hybrid Retrieval, AI Agents, LangChain, Embeddings. Frontend: React, Next.js, Tailwind CSS, Three.js, WebGL. Backend: FastAPI, Node.js, Fastify, WebSockets, REST. Data and Infra: PostgreSQL, Redis, Docker, GitHub Actions, Celery. Tools: OpenCV, Git, PyTest, Vitest.</desc>
+  <defs>
+    <linearGradient id="tc-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1F17"/>
+      <stop offset="1" stop-color="#060E0A"/>
+    </linearGradient>
+    <radialGradient id="tc-glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#1A6B4A" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#060E0A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tc-pulse">
+      <stop offset="0" stop-color="#F0F8F3"/>
+      <stop offset=".5" stop-color="#B5E5CB" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#7BC7A4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tc-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0F8F3"/>
+      <stop offset=".45" stop-color="#B5E5CB"/>
+      <stop offset="1" stop-color="#7BC7A4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .tc-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .tc-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .tc-panel { animation: tc-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    .tc-p1 { animation-delay: .05s; } .tc-p2 { animation-delay: .2s; } .tc-p3 { animation-delay: .35s; }
+    .tc-p4 { animation-delay: .5s; } .tc-p5 { animation-delay: .65s; } .tc-p6 { animation-delay: .8s; }
+    .tc-web { stroke-dasharray: 1800; stroke-dashoffset: 1800; animation: tc-draw 3s cubic-bezier(.65,0,.35,1) 1s forwards; }
+    @keyframes tc-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes tc-draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .tc-panel { animation: none; }
+      .tc-web { animation: none; stroke-dashoffset: 0; }
+    }
+    .tc-trace { stroke-dasharray: 201 1120; stroke-dashoffset: 1321; animation: tc-trace 7s linear infinite; }
+    @keyframes tc-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .tc-trace { display: none; } }
+  </style>
+
+  <rect width="1200" height="500" rx="20" fill="url(#tc-bg)"/>
+  <rect width="1200" height="500" rx="20" fill="url(#tc-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="499" rx="19.5" fill="none" stroke="#7BC7A4" stroke-opacity=".18"/>
+
+  <!-- Constellation: gutters linking the six groups -->
+  <path class="tc-web" d="M24 250 H1176 M406 24 V476 M794 24 V476" fill="none" stroke="#7BC7A4" stroke-opacity=".22"/>
+  <circle cx="0" cy="250" r="8" fill="url(#tc-pulse)" opacity="0">
+    <animate attributeName="cx" values="24;1176" dur="9s" begin="3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+  </circle>
+  <g fill="#060E0A" stroke="#B5E5CB">
+    <rect x="400" y="244" width="12" height="12" transform="rotate(45 406 250)"/>
+    <rect x="788" y="244" width="12" height="12" transform="rotate(45 794 250)"/>
+  </g>
+
+  <!-- Row 1 -->
+  <!-- 01 LANGUAGES -->
+  <g class="tc-panel tc-p1"><g transform="translate(32 32)">
+    <rect width="360" height="200" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".22"/>
+    <rect class="tc-trace" style="animation-delay:0.00s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7BC7A4">01  LANGUAGES</text>
+    <text class="tc-serif" x="24" y="94" font-size="36" font-weight="300" fill="#F0F8F3">Python <tspan font-size="12" class="tc-mono" fill="#7BC7A4" dy="-16">PRIMARY</tspan></text>
+    <text class="tc-serif" x="24" y="142" font-size="32" font-weight="300" fill="#F0F8F3">TypeScript</text>
+    <text class="tc-serif" x="24" y="180" font-size="22" font-weight="300" fill="#8FA99A">JavaScript  ·  SQL</text>
+  </g></g>
+
+  <!-- 02 AI & LLM SYSTEMS -->
+  <g class="tc-panel tc-p2"><g transform="translate(420 32)">
+    <rect width="360" height="200" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".22"/>
+    <rect class="tc-trace" style="animation-delay:-1.15s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7BC7A4">02  AI &amp; LLM SYSTEMS</text>
+    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F0F8F3">RAG  ·  Hybrid Search</text>
+    <text class="tc-serif" x="24" y="130" font-size="24" font-weight="300" fill="#F0F8F3">Autonomous AI Agents</text>
+    <text class="tc-serif" x="24" y="164" font-size="22" font-weight="300" fill="#8FA99A">LangChain  ·  LangGraph</text>
+    <text class="tc-mono" x="24" y="186" font-size="10" letter-spacing="1.4" fill="#7BC7A4">EMBEDDINGS · CROSS-ENCODER · RE-RANKING</text>
+  </g></g>
+
+  <!-- 03 FRONTEND -->
+  <g class="tc-panel tc-p3"><g transform="translate(808 32)">
+    <rect width="360" height="200" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".22"/>
+    <rect class="tc-trace" style="animation-delay:-2.30s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7BC7A4">03  FRONTEND ARCHITECTURE</text>
+    <text class="tc-serif" x="24" y="94" font-size="38" font-weight="300" fill="#F0F8F3">Next.js  ·  React</text>
+    <text class="tc-serif" x="24" y="138" font-size="24" font-weight="300" fill="#F0F8F3">Tailwind CSS</text>
+    <text class="tc-serif" x="24" y="174" font-size="22" font-weight="300" fill="#8FA99A">Three.js  ·  WebGL</text>
+  </g></g>
+
+  <!-- Row 2 -->
+  <!-- 04 BACKEND & APIS -->
+  <g class="tc-panel tc-p4"><g transform="translate(32 268)">
+    <rect width="360" height="200" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".22"/>
+    <rect class="tc-trace" style="animation-delay:-3.45s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7BC7A4">04  BACKEND &amp; DISTRIBUTED</text>
+    <text class="tc-serif" x="24" y="90" font-size="32" font-weight="300" fill="#F0F8F3">FastAPI  ·  Node.js</text>
+    <text class="tc-serif" x="24" y="132" font-size="24" font-weight="300" fill="#F0F8F3">Fastify  ·  Express</text>
+    <text class="tc-serif" x="24" y="170" font-size="22" font-weight="300" fill="#8FA99A">WebSockets  ·  REST APIs</text>
+  </g></g>
+
+  <!-- 05 DATA & INFRASTRUCTURE -->
+  <g class="tc-panel tc-p5"><g transform="translate(420 268)">
+    <rect width="360" height="200" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".22"/>
+    <rect class="tc-trace" style="animation-delay:-4.60s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7BC7A4">05  DATA &amp; INFRASTRUCTURE</text>
+    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F0F8F3">PostgreSQL  ·  Redis</text>
+    <text class="tc-serif" x="24" y="130" font-size="24" font-weight="300" fill="#F0F8F3">Docker  ·  Celery</text>
+    <text class="tc-serif" x="24" y="166" font-size="22" font-weight="300" fill="#8FA99A">GitHub Actions CI/CD</text>
+    <text class="tc-mono" x="24" y="186" font-size="10" letter-spacing="1.4" fill="#7BC7A4">CONTAINERIZATION · PUBSUB · CACHING</text>
+  </g></g>
+
+  <!-- 06 VISION & TOOLS -->
+  <g class="tc-panel tc-p6"><g transform="translate(808 268)">
+    <rect width="360" height="200" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".22"/>
+    <rect class="tc-trace" style="animation-delay:-5.75s" width="360" height="200" rx="14" fill="none" stroke="url(#tc-trace)" stroke-width="1.4" stroke-linecap="round"/>
+    <text class="tc-mono" x="24" y="38" font-size="11" letter-spacing="2.4" fill="#7BC7A4">06  VISION, ROBOTICS &amp; TEST</text>
+    <text class="tc-serif" x="24" y="90" font-size="30" font-weight="300" fill="#F0F8F3">OpenCV  ·  MAVLink</text>
+    <text class="tc-serif" x="24" y="130" font-size="22" font-weight="300" fill="#F0F8F3">PyTest  ·  Jest  ·  Vitest</text>
+    <text class="tc-serif" x="24" y="166" font-size="22" font-weight="300" fill="#8FA99A">Git  ·  GitHub  ·  Postman</text>
+  </g></g>
+</svg>

@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" width="1200" height="450" role="img" aria-labelledby="ce-t ce-d">
+  <title id="ce-t">Certifications &amp; Engineering Credentials — Ankit Kumar</title>
+  <desc id="ce-d">Generative AI Professional Certificate (Snowflake), Docker Professional Certificate (Docker, Inc), AI Fluency Framework &amp; Foundations (Anthropic), Advanced Software Engineering Job Simulation (Walmart USA), Software Engineering Job Simulation (JPMorganChase), Solutions Architecture Job Simulation (AWS APAC), Cyber Job Simulation (Deloitte Australia), Software Engineering Job Simulation (Accenture Nordics).</desc>
+  <defs>
+    <linearGradient id="ce-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1F17"/>
+      <stop offset="1" stop-color="#060E0A"/>
+    </linearGradient>
+    <radialGradient id="ce-glow" cx="20%" cy="80%" r="70%">
+      <stop offset="0" stop-color="#1A6B4A" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#060E0A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ce-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#7BC7A4" stroke-opacity=".04"/>
+    </pattern>
+    <linearGradient id="ce-edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0F8F3"/>
+      <stop offset=".45" stop-color="#B5E5CB"/>
+      <stop offset="1" stop-color="#1A6B4A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .ce-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .ce-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ce-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ce-tile { animation: ce-fade 0.9s cubic-bezier(.16,1,.3,1) both; }
+    @keyframes ce-fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .ce-tile { animation: none; } }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="1200" height="450" rx="20" fill="url(#ce-bg)"/>
+  <rect width="1200" height="450" rx="20" fill="url(#ce-grid)"/>
+  <rect width="1200" height="450" rx="20" fill="url(#ce-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="449" rx="19.5" fill="none" stroke="#7BC7A4" stroke-opacity=".18"/>
+
+  <!-- ================= ROW 1 ================= -->
+
+  <!-- CARD 1: SNOWFLAKE -->
+  <g transform="translate(40, 36)">
+    <g class="ce-tile" style="animation-delay:0.1s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">SNOWFLAKE · JUL 2026</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="20" font-weight="300" fill="#F0F8F3">Generative AI</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Professional Certificate</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Data Eng · GenAI · LLMs</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: c0f2274a63f2...32d</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- CARD 2: DOCKER -->
+  <g transform="translate(325, 36)">
+    <g class="ce-tile" style="animation-delay:0.2s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="0.75s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">DOCKER · JUL 2026</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin=".4s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="20" font-weight="300" fill="#F0F8F3">Docker Professional</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Professional Certificate</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Containers · Model Runner</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: eea279abfd27...6af</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- CARD 3: ANTHROPIC -->
+  <g transform="translate(610, 36)">
+    <g class="ce-tile" style="animation-delay:0.3s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">ANTHROPIC · JUN 2026</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin=".8s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="20" font-weight="300" fill="#F0F8F3">AI Fluency</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Framework &amp; Foundations</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">LLM Systems · Prompt Eng</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: zgbjh9zyd3px</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- CARD 4: WALMART USA -->
+  <g transform="translate(895, 36)">
+    <g class="ce-tile" style="animation-delay:0.4s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="2.25s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">WALMART USA · JUN 2026</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="18.5" font-weight="300" fill="#F0F8F3">Advanced Software Eng</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Job Simulation</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Java · Heap Struct · UML · ERD</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: m4Yc4Y2teRuN5Bpzr</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- ================= ROW 2 ================= -->
+
+  <!-- CARD 5: JPMORGAN CHASE -->
+  <g transform="translate(40, 232)">
+    <g class="ce-tile" style="animation-delay:0.5s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="3s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">JPMORGAN CHASE · 2026</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="1.4s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="20" font-weight="300" fill="#F0F8F3">Software Engineering</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Job Simulation</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Apache Kafka · Spring Boot</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">High-Volume Microservices</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- CARD 6: AWS APAC -->
+  <g transform="translate(325, 232)">
+    <g class="ce-tile" style="animation-delay:0.6s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="3.75s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">AWS APAC · MAY 2025</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="19" font-weight="300" fill="#F0F8F3">Solutions Architecture</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Job Simulation</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Cloud Architecture · Scale</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: PZa8hkW6CcEDR7pJN</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- CARD 7: DELOITTE -->
+  <g transform="translate(610, 232)">
+    <g class="ce-tile" style="animation-delay:0.7s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="4.5s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">DELOITTE · APR 2025</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="20" font-weight="300" fill="#F0F8F3">Cybersecurity</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Job Simulation</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Threat Assess · Forensics</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: ydvxMmiXfGEyzyEmx</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+
+  <!-- CARD 8: ACCENTURE -->
+  <g transform="translate(895, 232)">
+    <g class="ce-tile" style="animation-delay:0.8s">
+      <rect width="265" height="182" rx="14" fill="#0C241B" fill-opacity=".85" stroke="#7BC7A4" stroke-opacity=".25"/>
+      <rect x="0" y="0" width="265" height="3" rx="1.5" fill="#7BC7A4"/>
+      
+      <!-- Continuous Laser Trace -->
+      <rect width="265" height="182" rx="14" fill="none" stroke="url(#ce-edge)" stroke-width="1.4" stroke-dasharray="100 794" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="894;0" dur="6s" begin="5.25s" repeatCount="indefinite"/>
+      </rect>
+
+      <text class="ce-mono" x="18" y="32" font-size="10" letter-spacing="2" fill="#7BC7A4">ACCENTURE · MAY 2025</text>
+      <circle cx="242" cy="28" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="2.0s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="18" y1="46" x2="247" y2="46" stroke="#7BC7A4" stroke-opacity=".15"/>
+      
+      <text class="ce-serif" x="18" y="76" font-size="20" font-weight="300" fill="#F0F8F3">Software Engineering</text>
+      <text class="ce-sans" x="18" y="96" font-size="12.5" fill="#8FA99A">Job Simulation</text>
+      
+      <text class="ce-sans" x="18" y="128" font-size="11.5" fill="#B5E5CB">Architecture · Agile Delivery</text>
+      <text class="ce-mono" x="18" y="152" font-size="9" fill="#7BC7A4" opacity=".8">ID: mLohKsxpotp8kkauT</text>
+      <text class="ce-mono" x="18" y="168" font-size="9" fill="#10B981">✓ VERIFIED CREDENTIAL</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ab-t ab-d">
+  <title id="ab-t">About Ankit Kumar</title>
+  <desc id="ab-d">AI Engineer and Full-Stack Developer. Freelance Full-Stack and AI Engineer building production software for medical businesses and 15+ clients. Primary stack: TypeScript, Python, Next.js, FastAPI. Drawn to LLM systems, RAG, and system design.</desc>
+  <defs>
+    <linearGradient id="ab-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1612"/><stop offset="1" stop-color="#060E0A"/></linearGradient>
+    <radialGradient id="ab-glow" cx="80%" cy="20%" r="70%"><stop offset="0" stop-color="#1A6B4A" stop-opacity=".6"/><stop offset="1" stop-color="#114532" stop-opacity="0"/></radialGradient>
+    <pattern id="ab-scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#F0F8F3" opacity=".025"/></pattern>
+    
+    <!-- Laser trace gradients for continuous border animations -->
+    <linearGradient id="ab-trace-1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0F8F3"/>
+      <stop offset=".4" stop-color="#B5E5CB"/>
+      <stop offset="1" stop-color="#1A6B4A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ab-trace-card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B5E5CB"/>
+      <stop offset=".5" stop-color="#7BC7A4"/>
+      <stop offset="1" stop-color="#143D2E" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- CRT Scanline Gradient -->
+    <linearGradient id="ab-scanline-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7BC7A4" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#B5E5CB" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#7BC7A4" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="ab-term-clip"><rect x="40" y="76" width="760" height="304" rx="14"/></clipPath>
+
+    <!-- Typewriter clips -->
+    <clipPath id="ab-c0"><rect class="ab-type" x="68" y="112" width="89" height="22" style="animation-delay:0.60s;animation-duration:0.41s;animation-timing-function:steps(6)"/></clipPath>
+    <clipPath id="ab-c1"><rect class="ab-type" x="68" y="137" width="524" height="22" style="animation-delay:1.16s;animation-duration:0.53s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c2"><rect class="ab-type" x="68" y="162" width="179" height="22" style="animation-delay:2.04s;animation-duration:0.56s;animation-timing-function:steps(17)"/></clipPath>
+    <clipPath id="ab-c3"><rect class="ab-type" x="68" y="187" width="491" height="22" style="animation-delay:2.75s;animation-duration:0.53s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c4"><rect class="ab-type" x="68" y="212" width="188" height="22" style="animation-delay:3.63s;animation-duration:0.59s;animation-timing-function:steps(18)"/></clipPath>
+    <clipPath id="ab-c5"><rect class="ab-type" x="68" y="237" width="532" height="22" style="animation-delay:4.37s;animation-duration:0.53s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c6"><rect class="ab-type" x="68" y="262" width="138" height="22" style="animation-delay:5.25s;animation-duration:0.41s;animation-timing-function:steps(12)"/></clipPath>
+    <clipPath id="ab-c7"><rect class="ab-type" x="68" y="287" width="548" height="22" style="animation-delay:5.81s;animation-duration:0.53s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c8"><rect class="ab-type" x="68" y="312" width="163" height="22" style="animation-delay:6.69s;animation-duration:0.49s;animation-timing-function:steps(15)"/></clipPath>
+    <clipPath id="ab-c9"><rect class="ab-type" x="68" y="337" width="483" height="22" style="animation-delay:7.34s;animation-duration:0.53s;animation-timing-function:steps(1)"/></clipPath>
+  </defs>
+
+  <style>
+    .ab-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .ab-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .ab-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ab-type { transform-box: fill-box; transform-origin: left center; animation-name: ab-type; animation-fill-mode: both; }
+    .ab-card { animation: ab-fade 1s cubic-bezier(.16,1,.3,1) both; }
+    .ab-fade { animation: ab-fade 1s ease both; }
+    @keyframes ab-type { 0% { transform: scaleX(0); } 85%, 100% { transform: scaleX(1); } }
+    @keyframes ab-fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .ab-type, .ab-card, .ab-fade { animation: none; } }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="1200" height="420" rx="20" fill="url(#ab-bg)"/>
+  
+  <!-- Continuous Ambient Light Glow -->
+  <ellipse cx="900" cy="180" rx="420" ry="220" fill="url(#ab-glow)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -30 20; 0 0" dur="14s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1; .45 0 .55 1"/>
+  </ellipse>
+  <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#7BC7A4" stroke-opacity=".16"/>
+
+  <!-- Terminal window -->
+  <g class="ab-fade">
+    <rect x="40" y="40" width="760" height="340" rx="14" fill="#060E0A" stroke="#7BC7A4" stroke-opacity=".3"/>
+    <rect x="40" y="40" width="760" height="340" rx="14" fill="url(#ab-scan)"/>
+    
+    <!-- Continuous Laser Border Trace around Terminal -->
+    <rect x="40" y="40" width="760" height="340" rx="14" fill="none" stroke="url(#ab-trace-1)" stroke-width="1.8" stroke-dasharray="240 1960" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" values="2200;0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Terminal Header Bar -->
+    <path d="M40 54 a14 14 0 0 1 14 -14 H786 a14 14 0 0 1 14 14 V76 H40 Z" fill="#0A1612"/>
+    <line x1="40" y1="76" x2="800" y2="76" stroke="#7BC7A4" stroke-opacity=".2"/>
+    
+    <!-- Window Traffic Dots with Live Beacon on green light -->
+    <circle cx="62" cy="58" r="4.5" fill="#EF4444" opacity=".7"/>
+    <circle cx="80" cy="58" r="4.5" fill="#F59E0B" opacity=".7"/>
+    
+    <!-- Live Green LED with Pulse Waves -->
+    <circle cx="98" cy="58" r="4.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="98" cy="58" r="7" fill="none" stroke="#7BC7A4" stroke-opacity=".7">
+      <animate attributeName="r" values="4.5;9;4.5" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".7;0;.7" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Terminal Title -->
+    <text class="ab-mono" x="380" y="62" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#8FA99A">ankit@dev: ~</text>
+    
+    <!-- Live Session Status Pill -->
+    <rect x="680" y="48" width="104" height="20" rx="10" fill="#143D2E" stroke="#7BC7A4" stroke-opacity=".3"/>
+    <circle cx="692" cy="58" r="3" fill="#10B981">
+      <animate attributeName="opacity" values="1;.3;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="ab-mono" x="742" y="62" text-anchor="middle" font-size="9" letter-spacing="1" fill="#B5E5CB">LIVE · TTY1</text>
+  </g>
+
+  <!-- CRT Vertical Phosphor Scanline Sweep -->
+  <g clip-path="url(#ab-term-clip)">
+    <line x1="40" y1="76" x2="800" y2="76" stroke="url(#ab-scanline-grad)" stroke-width="2.5">
+      <animate attributeName="y1" values="76;380" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="76;380" dur="4.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Terminal Commands & Output -->
+  <g class="ab-mono" font-size="13.5">
+      <g clip-path="url(#ab-c0)"><text x="72" y="128" fill="#7BC7A4">$</text><text x="94" y="128" fill="#F0F8F3">whoami</text></g>
+      <g clip-path="url(#ab-c1)"><text x="72" y="153" fill="#1A6B4A">→</text><text x="94" y="153" fill="#8FA99A">Ankit Kumar · AI Engineer · Full-Stack Developer</text></g>
+      <g clip-path="url(#ab-c2)"><text x="72" y="178" fill="#7BC7A4">$</text><text x="94" y="178" fill="#F0F8F3">cat experience.txt</text></g>
+      <g clip-path="url(#ab-c3)"><text x="72" y="203" fill="#1A6B4A">→</text><text x="94" y="203" fill="#8FA99A">Freelance Full-Stack &amp; AI Engineer · Nov 2025 – Present</text></g>
+      <g clip-path="url(#ab-c4)"><text x="72" y="228" fill="#7BC7A4">$</text><text x="94" y="228" fill="#F0F8F3">cat clients.txt</text></g>
+      <g clip-path="url(#ab-c5)"><text x="72" y="253" fill="#1A6B4A">→</text><text x="94" y="253" fill="#8FA99A">20+ websites · 5 medical businesses · RAG chatbots deployed</text></g>
+      <g clip-path="url(#ab-c6)"><text x="72" y="278" fill="#7BC7A4">$</text><text x="94" y="278" fill="#F0F8F3">ls ./shipped</text></g>
+      <g clip-path="url(#ab-c7)"><text x="72" y="303" fill="#1A6B4A">→</text><text x="94" y="303" fill="#8FA99A">opinis  grepwise  replica  skysight  voxera</text></g>
+      <g clip-path="url(#ab-c8)"><text x="72" y="328" fill="#7BC7A4">$</text><text x="94" y="328" fill="#F0F8F3">echo $PRINCIPLE</text></g>
+      <g clip-path="url(#ab-c9)"><text x="72" y="353" fill="#1A6B4A">→</text><text x="94" y="353" fill="#8FA99A">ship it, measure it, improve it — engineering over demos</text></g>
+  </g>
+
+  <!-- Blinking Terminal Prompt Cursor -->
+  <rect x="72" y="364" width="8" height="16" fill="#B5E5CB" class="ab-fade" style="animation-delay:8.2s">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ================= RIGHT PANEL 1: PRIMARY STACK ================= -->
+  <g transform="translate(836, 70)">
+    <g class="ab-card" style="animation-delay:0.3s">
+      <rect width="324" height="88" rx="14" fill="#0A1612" stroke="#7BC7A4" stroke-opacity=".28"/>
+      <rect x="0" y="0" width="3" height="88" rx="1.5" fill="#7BC7A4">
+        <animate attributeName="opacity" values=".6;1;.6" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <!-- Continuous Laser Trace -->
+      <rect width="324" height="88" rx="14" fill="none" stroke="url(#ab-trace-card)" stroke-width="1.6" stroke-dasharray="100 724" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="824;0" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="298" cy="24" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+      <text class="ab-mono" x="22" y="26" font-size="10" letter-spacing="2" fill="#7BC7A4">PRIMARY STACK</text>
+      <text class="ab-serif" x="22" y="58" font-size="28" font-weight="300" fill="#F0F8F3">TypeScript · Python</text>
+      <text class="ab-sans" x="22" y="78" font-size="12" fill="#8FA99A">Next.js · FastAPI · LLM pipelines</text>
+    </g>
+  </g>
+
+  <!-- ================= RIGHT PANEL 2: AI SYSTEMS ================= -->
+  <g transform="translate(836, 174)">
+    <g class="ab-card" style="animation-delay:0.5s">
+      <rect width="324" height="88" rx="14" fill="#0A1612" stroke="#7BC7A4" stroke-opacity=".28"/>
+      <rect x="0" y="0" width="3" height="88" rx="1.5" fill="#7BC7A4">
+        <animate attributeName="opacity" values=".6;1;.6" dur="3s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <!-- Continuous Laser Trace -->
+      <rect width="324" height="88" rx="14" fill="none" stroke="url(#ab-trace-card)" stroke-width="1.6" stroke-dasharray="100 724" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="824;0" dur="5s" begin="1.7s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="298" cy="24" r="3.5" fill="#7BC7A4">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <text class="ab-mono" x="22" y="26" font-size="10" letter-spacing="2" fill="#7BC7A4">AI SYSTEMS</text>
+      <text class="ab-serif" x="22" y="58" font-size="28" font-weight="300" fill="#F0F8F3">RAG · LLM Agents</text>
+      <text class="ab-sans" x="22" y="78" font-size="12" fill="#8FA99A">LangChain · embeddings · eval harnesses</text>
+    </g>
+  </g>
+
+  <!-- ================= RIGHT PANEL 3: INFRASTRUCTURE ================= -->
+  <g transform="translate(836, 278)">
+    <g class="ab-card" style="animation-delay:0.7s">
+      <rect width="324" height="88" rx="14" fill="#0A1612" stroke="#7BC7A4" stroke-opacity=".28"/>
+      <rect x="0" y="0" width="3" height="88" rx="1.5" fill="#7BC7A4">
+        <animate attributeName="opacity" values=".6;1;.6" dur="3s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+      <!-- Continuous Laser Trace -->
+      <rect width="324" height="88" rx="14" fill="none" stroke="url(#ab-trace-card)" stroke-width="1.6" stroke-dasharray="100 724" stroke-linecap="round">
+        <animate attributeName="stroke-dashoffset" values="824;0" dur="5s" begin="3.4s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="298" cy="24" r="3.5" fill="#10B981">
+        <animate attributeName="opacity" values="1;.3;1" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text class="ab-mono" x="22" y="26" font-size="10" letter-spacing="2" fill="#7BC7A4">INFRASTRUCTURE</text>
+      <text class="ab-serif" x="22" y="58" font-size="28" font-weight="300" fill="#F0F8F3">PostgreSQL · Redis</text>
+      <text class="ab-sans" x="22" y="78" font-size="12" fill="#8FA99A">Docker · GitHub Actions CI/CD</text>
+    </g>
+  </g>
+</svg>
