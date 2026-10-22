@@ -4,13 +4,13 @@ import base64
 from PIL import Image, ImageDraw
 
 def main():
-    src = r'd:\Workspace\projects\Readme\Profile.png'
+    src = r'd:\Workspace\projects\Readme\Confident Creative Director Portrait.png'
     dest_svg = r'd:\Workspace\projects\Readme\Sushmitadasari-main\assets\ankit-hero-portrait.svg'
 
     im = Image.open(src).convert('RGBA')
 
-    # Bounding box of headshot circle in Profile.png: center=(517, 501), radius=462
-    cx, cy, r = 517, 501, 462
+    # Bounding box of headshot circle in Confident Creative Director Portrait.png: center=(590, 425), radius=420
+    cx, cy, r = 590, 425, 420
     crop_box = (cx - r, cy - r, cx + r, cy + r)
     cropped = im.crop(crop_box)
 
