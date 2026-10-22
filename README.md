@@ -15,7 +15,16 @@
 <img src="assets/title-experience-ankit.svg" width="100%" alt="02 Experience — Where I've shipped.">
 <img src="assets/experience-timeline-ankit.svg" width="100%" alt="Experience: Freelance Full-Stack & AI Engineer (Nov 2025 - Present) deploying ERP for 5 medical businesses and 15+ websites with RAG chatbots; AI Web Dev Intern at IISER Berhampur (May 2025 - Jul 2025) migrating 20+ dynamic pages with semantic AI search; Computer Vision Intern at NIST University (Jul 2024 - Aug 2024) delivering 25+ FPS edge object detection.">
 
-<img src="assets/title-work-ankit.svg" width="100%" alt="03 Selected work — Products, not assignments.">
+<img src="assets/title-certifications-ankit.svg" width="100%" alt="03 Certifications — Eight credentials, verified.">
+<a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/details/certifications/"><img src="assets/certifications-ankit.svg" width="100%" alt="Certifications: Generative AI Professional Certificate (Snowflake), Docker Professional Certificate (Docker, Inc), AI Fluency Framework & Foundations (Anthropic), Advanced Software Engineering Job Simulation (Walmart USA), Software Engineering Job Simulation (JPMorganChase), Solutions Architecture Job Simulation (AWS APAC), Cyber Job Simulation (Deloitte Australia), Software Engineering Job Simulation (Accenture Nordics)."></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/overlay/Certifications/704977499/treasury/?profileId=ACoAAEwzZ7QBihb_BgTEvNEF5M17JaoGgwIrioI"><img src="https://img.shields.io/badge/Snowflake-Generative_AI-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=snowflake" alt="Snowflake Generative AI"></a>
+  <a href="https://www.linkedin.com/learning/certificates/eea279abfd27ee5b52ce1a2c0e5bde34c2e521893e2b5d9aedc7f5a3da84e6af/?trk=share_certificate"><img src="https://img.shields.io/badge/Docker-Professional_Certificate-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=docker" alt="Docker Professional Certificate"></a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/overlay/Certifications/828401694/treasury/?profileId=ACoAAEwzZ7QBihb_BgTEvNEF5M17JaoGgwIrioI"><img src="https://img.shields.io/badge/Anthropic-AI_Fluency-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=anthropic" alt="Anthropic AI Fluency"></a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/overlay/Certifications/1069482648/treasury/?profileId=ACoAAEwzZ7QBihb_BgTEvNEF5M17JaoGgwIrioI"><img src="https://img.shields.io/badge/Walmart-Advanced_SWE-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=walmart" alt="Walmart Advanced SWE"></a>
+</p>
+
+<img src="assets/title-work-ankit.svg" width="100%" alt="04 Selected work — Products, not assignments.">
 
 <!-- OPINIS -->
 <img src="assets/project-opinis-ankit.svg" width="100%" alt="Opinis: Full-stack sentiment intelligence platform with multi-provider LLMs (Gemini 2.0 Flash + Groq Llama 3.1), SHA-256 Redis caching, 4-stage JSON recovery, and WebGL emotion vectors.">
@@ -47,17 +56,8 @@
   <a href="https://github.com/arsonic-dev"><img src="https://img.shields.io/badge/Telemetry-MAVLink_%C2%B7_PX4_%C2%B7_Three.js-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=redis" alt="MAVLink telemetry"></a>
 </p>
 
-<img src="assets/title-toolkit-ankit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
+<img src="assets/title-toolkit-ankit.svg" width="100%" alt="05 Toolkit — The tools I reach for.">
 <img src="assets/tech-constellation-ankit.svg" width="100%" alt="Tech constellation: Python, TypeScript, JavaScript, SQL; RAG, Hybrid Search, Autonomous Agents, LangChain, Embeddings; Next.js, React, Tailwind CSS, Three.js, WebGL; FastAPI, Node.js, Fastify, WebSockets, REST APIs; PostgreSQL, Redis, Docker, GitHub Actions, Celery; OpenCV, MAVLink, PyTest, Jest, Vitest.">
-
-<img src="assets/title-certifications-ankit.svg" width="100%" alt="05 Certifications — Eight credentials, verified.">
-<a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/details/certifications/"><img src="assets/certifications-ankit.svg" width="100%" alt="Certifications: Generative AI Professional Certificate (Snowflake), Docker Professional Certificate (Docker, Inc), AI Fluency Framework & Foundations (Anthropic), Advanced Software Engineering Job Simulation (Walmart USA), Software Engineering Job Simulation (JPMorganChase), Solutions Architecture Job Simulation (AWS APAC), Cyber Job Simulation (Deloitte Australia), Software Engineering Job Simulation (Accenture Nordics)."></a>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/overlay/Certifications/704977499/treasury/?profileId=ACoAAEwzZ7QBihb_BgTEvNEF5M17JaoGgwIrioI"><img src="https://img.shields.io/badge/Snowflake-Generative_AI-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=snowflake" alt="Snowflake Generative AI"></a>
-  <a href="https://www.linkedin.com/learning/certificates/eea279abfd27ee5b52ce1a2c0e5bde34c2e521893e2b5d9aedc7f5a3da84e6af/?trk=share_certificate"><img src="https://img.shields.io/badge/Docker-Professional_Certificate-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=docker" alt="Docker Professional Certificate"></a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/overlay/Certifications/828401694/treasury/?profileId=ACoAAEwzZ7QBihb_BgTEvNEF5M17JaoGgwIrioI"><img src="https://img.shields.io/badge/Anthropic-AI_Fluency-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=anthropic" alt="Anthropic AI Fluency"></a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-btech-cse/overlay/Certifications/1069482648/treasury/?profileId=ACoAAEwzZ7QBihb_BgTEvNEF5M17JaoGgwIrioI"><img src="https://img.shields.io/badge/Walmart-Advanced_SWE-143D2E?style=for-the-badge&labelColor=060E0A&logoColor=F0F8F3&logo=walmart" alt="Walmart Advanced SWE"></a>
-</p>
 
 <img src="assets/title-commits-ankit.svg" width="100%" alt="06 Commit log — A year of building.">
 <p align="center">
